@@ -1,4 +1,6 @@
 # Fashion-App
-this is the code of part of fashion app
-and here is the link of the screenshots that are the result of the code
-https://drive.google.com/drive/folders/1WlBodGZRcUXPBR5a03mfMegLPFUiEpqN?usp=sharing
+## Screenshots
+![image](https://github.com/user-attachments/assets/6a17123c-499b-447a-9823-f60dd33d552b)
+![image](https://github.com/user-attachments/assets/1ab9b858-1a18-491f-bca0-ff2d7234415d)
+
+
